@@ -26,4 +26,4 @@ Growth Mindset to me is the ability to accept feedback and allow yourself to pro
 
 ## Note Links
 
-Leraning Markdown (
+[Learning Markdown] (https://github.com/Hcooper23/reading-notes/blob/main/Class1.md)
