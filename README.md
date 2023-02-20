@@ -23,3 +23,7 @@ Growth Mindset to me is the ability to accept feedback and allow yourself to pro
 2. Patience (Never stop growing and learning or you will become stagnate and slowly become content with your surroundings)
 
 3. Accepting (Be accepting of your growth and know you are attempting to achieve a better goal than yesterday)
+
+## Note Links
+
+Leraning Markdown (
