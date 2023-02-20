@@ -1,11 +1,11 @@
 **What is Markdown?**
   
-+ Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
+Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
 Why do we use Markdown.
 
 **What symbol will create a heading in Markdown?**
 
-+ To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
+To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
 **How many do you need to create the largest heading?**
 
