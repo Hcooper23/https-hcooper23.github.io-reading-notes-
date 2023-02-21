@@ -4,12 +4,12 @@ Text editors are utilized to allow for maximum efficiency in code editing/ usage
 
 **What do the following commands do?**
 
-  1.pwd “Print Working Directory - ie. Where are we currently.”
+  1. pwd “Print Working Directory - ie. Where are we currently.”
   
-  2.ls “List the contents of a directory.”
+  2. ls “List the contents of a directory.”
   
-  3.cd “Change Directories - ie. move to another directory.”
+  3. cd “Change Directories - ie. move to another directory.”
   
-  4.mkdir “Creates a directory or subdirectory.”
+  4. mkdir “Creates a directory or subdirectory.”
   
-  5.touch “updates the access and modification times of each file specified by the File parameter of each directory specified by the Directory parameter”
+  5. touch “updates the access and modification times of each file specified by the File parameter of each directory specified by the Directory parameter”
