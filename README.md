@@ -28,7 +28,7 @@ Growth Mindset to me is the ability to accept feedback and allow yourself to pro
 
 ## Note Links
 
-    Code 102:
+Code 102:
 
 * Read: 01 Learning Markdown [Read: 01 Learning Markdown](./102-Notes/Read%3A-01-Learning-Markdown.md)
 * Read: 02 The Coder's Computer [Read: 02 The Coder's Computer](./102-Notes/Read%3A-02-The-Coder's-Computer.md)
@@ -41,7 +41,7 @@ Growth Mindset to me is the ability to accept feedback and allow yourself to pro
 
 ##
 
-    Code 201:
+Code 201:
 
 * Note 1
 * Note 2
