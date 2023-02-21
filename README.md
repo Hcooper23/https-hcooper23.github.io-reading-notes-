@@ -38,8 +38,9 @@ Growth Mindset to me is the ability to accept feedback and allow yourself to pro
 * Read: 06 Dynamic Web Pages With JavaScript
 * Read: 07 Programming With JavaScript
 * Read: 08 Operators And Loops
-
+##
     Code 201:
+
 * Note 1
 * Note 2
 * Note 3
