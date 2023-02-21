@@ -29,19 +29,11 @@ Growth Mindset to me is the ability to accept feedback and allow yourself to pro
 ## Note Links
 
 * Read: 01 Learning Markdown [Read: 01 Learning Markdown](./102-Notes/Read%3A-01-Learning-Markdown.md)
-
 * Read: 02 The Coder's Computer [Read: 02 The Coder's Computer](./102-Notes/Read%3A-02-The-Coder's-Computer.md)
-
 * Read: 03 Revisions and The Cloud [Read: 03 - Revisions and the Cloud](./102-Notes/Read%3A-03-Revisions-and-the-Cloud.md)
-
-*Read: 04 Structure web pages with HTML
-
-*Read: 05 Design Web Pages With CSS
-
-*Read: 06 Dynamic Web Pages With JavaScript
-
-*Read: 07 Programming With JavaScript
-
-*Read: 08 Operators And Loops
-
-*Thoughts Experince Based [Code 102: Intro to Software Development Course](./Thoughts%20Experince%20Based/Code%20102%3A%20Intro%20to%20Software%20Development%20Course.md)
+* Read: 04 Structure web pages with HTML
+* Read: 05 Design Web Pages With CSS
+* Read: 06 Dynamic Web Pages With JavaScript
+* Read: 07 Programming With JavaScript
+* Read: 08 Operators And Loops
+* Thoughts Experince Based [Code 102: Intro to Software Development Course](./Thoughts%20Experince%20Based/Code%20102%3A%20Intro%20to%20Software%20Development%20Course.md)
