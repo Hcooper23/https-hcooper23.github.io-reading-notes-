@@ -26,4 +26,4 @@ Growth Mindset to me is the ability to accept feedback and allow yourself to pro
 
 ## Note Links
 
-**Notes/ Redaing Reviews**
+
