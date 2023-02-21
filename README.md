@@ -28,6 +28,6 @@ Growth Mindset to me is the ability to accept feedback and allow yourself to pro
 
 ## Note Links
 
-* Read: 01 Learning Markdown [Read: 01 Learning Markdown](Read:-01-Learning-Markdown.md)
+* Read: 01 Learning Markdown [Read: 01 Learning Markdown](./102-Notes/Read%3A-01-Learning-Markdown.md)
 * Read: 02 The Coder's Computer [Read: 02 The Coder's Computer](Read:-02-The-Coder's-Computer.md)
 * Read: 03 Revisions and The Cloud [Read: 03 - Revisions and the Cloud](Read-03-Revisions-and-the-Cloud.md)
