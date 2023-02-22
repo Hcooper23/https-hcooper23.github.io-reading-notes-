@@ -32,9 +32,9 @@ Code 102:
 
 * Read: 01 Learning Markdown [Read: 01 Learning Markdown](./102-Notes/Read%3A-01-Learning-Markdown.md)
 * Read: 02 The Coder's Computer [Read: 02 The Coder's Computer](./102-Notes/Read%3A-02-The-Coder's-Computer.md)
-* Read: 03 Revisions and The Cloud [Read: 03 - Revisions and the Cloud](./102-Notes/Read%3A-03-Revisions-and-the-Cloud.md)
+* Read: 03 Revisions and The Cloud [Read: 03 Revisions and the Cloud](./102-Notes/Read%3A-03-Revisions-and-the-Cloud.md)
 * Read: 04 Structure web pages with HTML [Read: 04 Structure Web Pages With HTML](./102-Notes/Read%3A-04-Structure-web-pages-with-HTML.md)
-* Read: 05 Design Web Pages With CSS
+* Read: 05 Design Web Pages With CSS [Read: 05 Design Web Pages With CSS](./102-Notes/Read%3A-05-Design-web-pages-with-CSS.md)
 * Read: 06 Dynamic Web Pages With JavaScript
 * Read: 07 Programming With JavaScript
 * Read: 08 Operators And Loops

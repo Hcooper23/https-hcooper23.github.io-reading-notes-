@@ -11,7 +11,7 @@ CSS can be added to HTML documents in 3 ways:
 
 - Internal: An internal style sheet may be used if one single HTML page has a unique style.
 
-- External: External style sheet, you can change the look of an entire website by changing just one file!
+- External: External style sheet, you can change the look of an entire website by changing just one file.
 
 **Write an example of a CSS rule that would give all <p> elements red text**
 
