@@ -4,7 +4,7 @@ This is a website developed for assignments associated with my classes for Full 
 
 ## Biography
 
-Grew up in Knoxville, TN attended L&N Stem Academy was apart of the first Graduating class of 2014, Followed by enlistment in the US Navy. Avoid lover of all things associated with the outdoors loving of golf, snowboarding, boating, and avid brewery explore.
+Grew up in Knoxville, TN attended L&N Stem Academy was apart of the first Graduating class of 2014, Followed by enlistment in the US Navy. Avid lover of all things associated with the outdoors loving of golf, snowboarding, boating, and avid brewery explore.
 >Can't Argue with the good book- YearBook 2014
 
 **Hayden Cooper**
