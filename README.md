@@ -35,11 +35,9 @@ Code 102:
 * Read: 03 Revisions and The Cloud [Read: 03 Revisions and the Cloud](./102-Notes/Read%3A-03-Revisions-and-the-Cloud.md)
 * Read: 04 Structure web pages with HTML [Read: 04 Structure Web Pages With HTML](./102-Notes/Read%3A-04-Structure-web-pages-with-HTML.md)
 * Read: 05 Design Web Pages With CSS [Read: 05 Design Web Pages With CSS](./102-Notes/Read%3A-05-Design-web-pages-with-CSS.md)
-* Read: 06 Dynamic Web Pages With JavaScript
+* Read: 06 Dynamic Web Pages With JavaScript[Read: 06 Dynamic Web Pages With JavaScript](./102-Notes/Read%3A-06-Dynamic-web-pages-with-JavaScript.md)
 * Read: 07 Programming With JavaScript
 * Read: 08 Operators And Loops
-
-##
 
 Code 201:
 
