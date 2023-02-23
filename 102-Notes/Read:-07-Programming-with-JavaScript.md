@@ -2,7 +2,7 @@
 
 **What is control flow?**
 
-The order in which the computer executes statements in a script.
+The order in which the computer executes the statements in a script.
 
 **What is a JavaScript function?**
 
@@ -12,10 +12,8 @@ A block of code designed to perform a particular task.
 
 The code inside the function will execute when "something" invokes (calls) the function:
 
-- When an event occurs (when a user clicks a button)
-- When it is invoked (called) from JavaScript code
-- Automatically (self invoked)
+- When the event occurs (when the user clicks the button) - when it is invoked (invoked) by the JavaScript code - automatically (self-invoked)
 
 **What are the parenthesis () for when you define a function?**
 
-To execute the named function rather than just refer to the function
+Execute the named function instead of just referencing the function.
