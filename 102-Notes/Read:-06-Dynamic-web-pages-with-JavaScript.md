@@ -13,3 +13,5 @@ Creating a variable in JavaScript is called "declaring" a variable, You declare 
 In JavaScript, the equal sign (=) is an "assignment" operator, not an "equal to" operator.
 
 **What is information received from the user called?**
+
+The input
