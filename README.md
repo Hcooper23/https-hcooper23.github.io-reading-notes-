@@ -26,9 +26,9 @@ Growth Mindset to me is the ability to accept feedback and allow yourself to pro
 
 3. Accepting (Be accepting of your growth and know you are attempting to achieve a better goal than yesterday)
 
-## Note Links
+# Note Links
 
-Code 102:
+## Code 102- Intro to Software Development
 
 * [Read: 01 Learning Markdown](./102-Notes/Read%3A-01-Learning-Markdown.md)
 * [Read: 02 The Coder's Computer](./102-Notes/Read%3A-02-The-Coder's-Computer.md)
@@ -37,23 +37,25 @@ Code 102:
 * [Read: 05 Design Web Pages With CSS](./102-Notes/Read%3A-05-Design-web-pages-with-CSS.md)
 * [Read: 06 Dynamic Web Pages With JavaScript](./102-Notes/Read%3A-06-Dynamic-web-pages-with-JavaScript.md)
 * [Read: 07 Programming With JavaScript](./102-Notes/Read%3A-07-Programming-with-JavaScript.md)
-* [Read: 08 Operators And Loops ](./102-Notes/Read%3A-08-Operators-and-Loops.md)
+* [Read: 08 Operators And Loops](./102-Notes/Read%3A-08-Operators-and-Loops.md)
 
-Code 201:
+## Code 201- Foundations of Software Development
 
-* Note 1
-* Note 2
-* Note 3
-* Note 4
-* Note 5
-* Note 6
-* Note 7
-* Note 8
-* Note 9
-* Note 10
-* Note 11
-* Note 12
-* Note 13
-* Note 14
-* Note 15
-* Thoughts Experince Based [Code 102: Intro to Software Development Course](./Thoughts%20Experince%20Based/Code%20102%3A%20Intro%20to%20Software%20Development%20Course.md)
+* [Class-01](./201-Notes/class-01.md)
+* [Read: 02 Basics of HTML, CSS & JS](./201-Notes/Read%3A-02-Basics%20of%20HTML%2C%20CSS%20%26%20JS.md)
+* [Read: 03 HTML Lists, Control Flow with JS, and the CSS Box Model](./201-Notes/Read%3A-03-HTML%20Lists%2C%20Control%20Flow%20with%20JS%2C%20and%20the%20CSS%20Box%20Model.md)
+* [Read: 04 HTML Links, JS Functions, and Intro to CSS Layout](./201-Notes/Read%3A-04-HTML%20Links%2C%20JS%20Functions%2C%20and%20Intro%20to%20CSS%20Layout.md)
+* [Read: 05 Images, Color, Text](./201-Notes/Read%3A-05-Images%2C%20Color%2C%20Text.md)
+* [Read: 06 Problem Domain, Objects, and the DOM](./201-Notes/Read%3A-06-Problem%20Domain%2C%20Objects%2C%20and%20the%20DOM.md)
+* [Read: 07 Object Oriented Programming, HTML Tables](./201-Notes/Read%3A-07-Object-Oriented%20Programming%2C%20HTML%20Tables.md)
+* [Read: 08 CSS Layout](./201-Notes/Read%3A-08-CSS%20Layout.md)
+* [Read: 09 Forms and JS Events](./201-Notes/Read%3A-09-Forms%20and%20JS%20Events.md)
+* [Read: 10 Debugging](./201-Notes/Read%3A-10-Debugging.md)
+* [Read: 11 Audio, Video, Images](./201-Notes/Read%3A-11-Audio%2C%20Video%2C%20Images.md)
+* [Read: 12 Chart.js, Canvas](./201-Notes/Read%3A-12-Chart.js%2C%20Canvas.md)
+* [Read: 13](./201-Notes/Read%3A-13-Class%2013.md)
+* [Read: Class 14/ Psychological Safety.md](./201-Notes/Read%3A-14-Read%3A%20Class%2014%20Psychological%20Safety.md)
+
+## Code 301- Intermediate Software Development
+
+## Code 401- Advanced Software Development
