@@ -78,3 +78,5 @@ Specifying a new condition if the first condition is false.
 || — OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
 
 ## Things I want to know more about
+
+- Understanding of best practices and things that are typicall issues seen when utilizing your code toolbelt and how each one falls into a differnt catagory for best solving issues.
