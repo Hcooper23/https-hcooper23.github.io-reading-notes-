@@ -1,4 +1,4 @@
-# This helps with developing a new skillset inside of the coding world and allows for me to use shorter codes which allows for more effecnicny. This helps with a brekadown of time sand undertanding of concepts that help with my toolbelt of coding ability
+# This helps with developing a new skillset inside of the coding world and allows me to use shorter codes which allows for more effecnicny. This helps with a breakdown of time and understanding of concepts that help with my toolbelt of coding ability
 
 ## Ordered and Unordered lists
 
