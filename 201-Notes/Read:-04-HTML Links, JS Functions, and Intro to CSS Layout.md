@@ -1,4 +1,4 @@
-# The topics outlined in this reading allow us to understand best practice for linking a external source and how to avoid having a huge html just floating around on a page as a distraction for the end user. Allow allowed us to undertand some the key things we need to success once we complete the program
+# The topics outlined in this reading allow us to understand best practice for linking a external source and how to avoid having a huge HTML just floating around on a page as a distraction for the end user. Also allowed us to understand some of the key things we need to succeeded once we complete the program.
 
 ## Creating Hyperlinks
 
