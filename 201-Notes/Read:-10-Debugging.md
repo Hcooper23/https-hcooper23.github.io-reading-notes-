@@ -1,4 +1,4 @@
-# Todays readin has allowed to look at ways to comprehend the common issues I have been running into and how to help develop a solution to common mkistakes and how to utilize a tool to help with solving them before we attempt to run the code fully. 
+# Today's reading has allowed looking at ways to comprehend the common issues I have been running into and how to help develop a solution to common mkistakes and how to utilize a tool to help with solving them before we attempt to run the code fully.
 
 ## What Went Wrong? Troubleshooting JavaScript
 
