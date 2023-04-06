@@ -1,3 +1,5 @@
+# This will be na introduction into my newest model as well some new ideas and ways to utilize react.
+
 ## Component-Based Architecture
 
 - What is a “component”?
