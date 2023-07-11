@@ -1,0 +1,11 @@
+# Ethics In Tech
+
+The two articles address different aspects of ethics in technology. The first article discusses the backlash among Google employees regarding the development of a censored search engine for China. The employees express concerns about the company violating its own ethical principles and demand more transparency and employee input in decision-making processes. The article highlights the growing recognition among employees that they should have a say in the ethical implications of their work.
+
+The second article explores the ethical challenges surrounding self-driving cars, particularly in situations where a moral judgment must be made. It raises questions about how self-driving cars should respond in no-win scenarios and who should bear the responsibility for such decisions. The article emphasizes the need to address these ethical dilemmas to ensure the safe and responsible development and deployment of self-driving technology.
+
+While you mention that you disagree and believe it is the end users' responsibility to be cautious and avoid compromising themselves, it's important to note that the articles focus on the ethical responsibilities of the technology developers and companies. They discuss the need for transparency, employee involvement, and ethical assessments to ensure that technology is developed and used responsibly. While end users do have a responsibility to be cautious, the articles emphasize the role of technology companies and employees in shaping the ethical implications of their products.
+
+From the first article, what stands out is the employees' demand for a more formal role in evaluating the ethical implications of company projects. They seek transparency, input, and accountability to ensure that Google's actions align with its ethical principles. This reflects a growing awareness among employees of the need to have a say in the ethical dimensions of their work.
+
+From the second article, the ethical challenges posed by self-driving cars and the absence of clear guidelines or consensus stand out. The article raises thought-provoking scenarios and acknowledges the complexity of making moral judgments in programming autonomous vehicles. It highlights the importance of addressing these ethical questions to navigate the development and acceptance of self-driving technology effectively.
